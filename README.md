@@ -7,11 +7,11 @@
 
 - [Usage](#zap-usage)
 - [Gallery](#camera-gallery)
-- [Credit/Acknowledgment](#star2-creditacknowledgment)
-- [License](#lock-license)
-
+  
 ## :zap: Usage
-Write about how to use this project.
+
+השחקן יוכל לזוז לכל הצדדים תוך שימוש בידיים ולהשתמש במשאבים שעשויים לעזור לו להתקדם במשימות.
+ברגע שהשחקן מסיים את המשימה בשלב הספציפי, הוא מוכן לעבור לשלב הבא (לפושע הבא). ולאחר כמות שלבים יעלה בדרגה והמשאבים שלו השתכללו בהתאם.
 
 ##  :camera: Gallery
 Pictures of your project
