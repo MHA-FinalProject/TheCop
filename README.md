@@ -25,9 +25,13 @@
 
 ![image](https://github.com/MHA-FinalProject/TheCop/assets/92233601/0b0b2153-1519-4e87-8c36-80562dbc1fc4)
 
-![image](https://github.com/MHA-FinalProject/TheCop/assets/92233601/bfda1fcd-ba84-4e46-b77a-8582fcfc8803)
-
 ![image](https://github.com/MHA-FinalProject/TheCop/assets/92233601/05cb6c3a-9e15-4969-a650-2fed2afd5015)
+
+![image](https://github.com/MHA-FinalProject/TheCop/assets/92233601/2fb5379e-2097-44d7-ab5d-caf8d6183473)
+
+![image](https://github.com/MHA-FinalProject/TheCop/assets/92233601/0e626c84-5e3d-43f4-96c7-6fd3d97fe0c0)
+
+
 
 
 
